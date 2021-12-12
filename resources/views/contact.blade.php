@@ -1,8 +1,6 @@
 @extends('layout.app')
-@section('title') Home @endsection
+@section('title') Contact @endsection
 @section('content')
 <h1> {{ $title }} </h1>
-
-
-
+    
 @endsection
